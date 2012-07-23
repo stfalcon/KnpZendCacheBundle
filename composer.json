@@ -34,6 +34,8 @@
             "Knp\\Bundle\\ZendCacheBundle": ""
         }
     },
+    
+    "minimum-stability": "dev",
 
     "target-dir": "Knp/Bundle/ZendCacheBundle"
 }
