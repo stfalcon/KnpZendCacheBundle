@@ -35,5 +35,5 @@
         }
     },
 
-    "target-dir": "Knp/Bundle/ZendCacheBundle",
+    "target-dir": "Knp/Bundle/ZendCacheBundle"
 }
